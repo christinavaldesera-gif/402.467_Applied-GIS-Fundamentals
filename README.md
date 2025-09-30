@@ -43,7 +43,7 @@ Our lab exercises offer step-by-step guidelines that cover real-world GIS topics
 
 ---
 
-## Resources
+## Materials
 
 This folder contains useful materials and links to support your learning. You can find:
 
