@@ -27,11 +27,11 @@ To participate fully in this course, students must have:
 
 ---
 
-## Slides
+## Lectures
 
 Our lecture slides provide basic theoretical insights into GIS concepts. They work alongside the hands-on labs. Current lectures include:
 
-- [Lecture 00: Introducing Ourselves to GIS](slides/lab_00_theory.pdf)
+- [Lecture 00: Introducing Ourselves to GIS](lectures/lab_00.pdf)
 
 ---
 
