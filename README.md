@@ -21,8 +21,9 @@ To participate fully in this course, students must have:
 - **QGIS** installed (Download for free from [qgis.org](https://qgis.org))
 - **Basic computer literacy:** Ability to manage files and install programs 
 
- ⚠️
- **Remember to always download the data at home before each lab**
+> [!IMPORTANT]  
+> Remember to always download the data at home before each lab  
+>   
 
 ---
 
