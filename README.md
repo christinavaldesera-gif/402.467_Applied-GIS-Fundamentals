@@ -47,7 +47,7 @@ Our lab exercises offer step-by-step guidelines that cover real-world GIS topics
 
 This folder contains useful materials and links to support your learning. You can find:
 
-- [Online Courses](materials/online_courses.md) – links to relevant GIS and programming courses.
+- [Online Courses](materials/online_courses.md) – links to relevant GIS courses.
 - [GIS Glossary](materials/GIS_Glossary.md) – a table of GIS terminology to help you get familiar with it.
 - [Open Data Sources](materials/open_data_sources.md) – a catalogue of free spatial data sources.
 
