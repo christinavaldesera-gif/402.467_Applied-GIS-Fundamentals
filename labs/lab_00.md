@@ -32,7 +32,7 @@ Proper organization of files prevents data loss and improves workflow efficiency
 >   
 
 ## 4. File Naming Best Practices
-QGIS file and folder names are *case sensitive* and sometimes sensitive to special characters. Avoid spaces and special characters; instead, use underscores `_` or hyphens `-`. For example:  
+QGIS file and folder names are *case sensitive* and sometimes sensitive to special characters. Avoid spaces (` `), umlauts (`ä`,`ö`,`ü`) and special characters (`!`,`?`,`.`). Instead, use underscores `_` or hyphens `-`. For example:  
   - Use: `my_project.qgz`  
   - Avoid: `My Project.QGZ` or `my project.qgz`  
 
