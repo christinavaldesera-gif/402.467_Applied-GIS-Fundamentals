@@ -48,17 +48,16 @@ The coordinate reference system (CRS) used for the layers is “WGS_1984_UTM_Zon
 - For `Pumps`:
   - On the `Layers panel` right-click on the Pumps layer > `Properties` > `Symbology`. Choose Single Symbol from the drop down menu at the top. Set a uniform symbol for the pumps, adjust the size to make it more visible. Click `Apply` and `OK` to see your changes
 - For `Cholera_Deaths`:
-  - Go to `Symbology` tab as mentioned above and choose Graduated this time. Then, choose Count as the value, select a Symbol, the Color and the Size of your preference and press Classify. For Mode you can leave the default option. Click `Apply` and `OK` to see your changes
+  - Go to `Symbology` tab as mentioned above and choose Graduated this time. Then, choose Count as the value, select a circular symbol and for Method choose Size and press Classify. For Mode you can leave the default option. Click `Apply` and `OK` to see your changes
+- For `City_Blocks`:
+  - `Properties` > `Symbology` > Graduated. Set value to the deaths field, classify with a yellow-to red ramp choropleth effect. `Apply` and `OK`
 
 > ❓**Question:** Click to see the answer    
 <details>
   <summary>Why use graduated symbols here?</summary>
   
-  Graduated symbols show the different numbers of cholera cases at each location. This helps you find clusters with higher case counts, which might suggest closeness to a contaminated source. 
+  Graduated symbols show the range of deaths at each city block. This helps you find clusters with higher deaths, which might suggest closeness to a contaminated source. 
   </details>
-
-- For `City_Blocks`:
-  - `Properties` > `Symbology` > Graduated. Set value to the deaths field, classify with a yellow-to red ramp choropleth effect. `Apply` and `OK`
 
 5️⃣ **Create Maps**   
 - Customize your results. Go to `Project` > `New Print Layout` and add a title. Select the `Add Map` icon and drag a rectangle on the canvas. Also `Add Legend`, `Add Scale Bar` and `Add North Arrow`. `Add Label` for title, your name and student number
