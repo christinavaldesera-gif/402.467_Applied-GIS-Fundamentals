@@ -32,6 +32,7 @@ To participate fully in this course, students must have:
 Our lecture slides provide basic theoretical insights into GIS concepts. They work alongside the hands-on labs. Current lectures include:
 
 - [Lecture 00: Introducing Ourselves to GIS](lectures/lab_00_theory.pdf)
+- [Lecture 01: QGIS Basics](lectures/lab_01_theory.pdf)
 
 ---
 
@@ -40,6 +41,7 @@ Our lecture slides provide basic theoretical insights into GIS concepts. They wo
 Our lab exercises offer step-by-step guidelines that cover real-world GIS topics. Current labs include:
 
 - [Lab 00: Introducing Ourselves to GIS](labs/lab_00.md)
+- [Lab 01: QGIS Basics](labs/lab_01.md)
 
 ---
 
