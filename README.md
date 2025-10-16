@@ -42,6 +42,7 @@ Our lab exercises offer step-by-step guidelines that cover real-world GIS topics
 
 - [Lab 00: Introducing Ourselves to GIS](labs/lab_00.md)
 - [Lab 01: QGIS Basics](labs/lab_01.md)
+- [Lab 02: Getting to know QGIS](labs/lab_02.md)
 
 ---
 
