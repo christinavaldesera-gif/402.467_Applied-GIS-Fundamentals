@@ -33,6 +33,7 @@ Our lecture slides provide basic theoretical insights into GIS concepts. They wo
 
 - [Lecture 00: Introducing Ourselves to GIS](lectures/lab_00_theory.pdf)
 - [Lecture 01: QGIS Basics](lectures/lab_01_theory.pdf)
+- [Lecture 02: Getting to know QGIS](lectures/lab_02_theory.pdf)
 
 ---
 
