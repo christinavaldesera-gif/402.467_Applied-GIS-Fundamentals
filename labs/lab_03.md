@@ -39,7 +39,7 @@ From `Layer Menu`, add the following vector layers:
 
 3️⃣ **Create two point layers (student home and department)**
 - `Layer` > `Create Layer` > `New Shapefile Layer`
-- Set geometry to `Point`and CRS to `EPSG:31287`
+- Set geometry to `Point`, CRS to `EPSG:31287` and file encoding to `UTF-8`
 - Add attribute fields:
   - x_coord (decimal)
   - y_coord (decimal)
