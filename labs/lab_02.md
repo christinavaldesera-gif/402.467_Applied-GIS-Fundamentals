@@ -1,10 +1,10 @@
 # Lab_02: Getting to Know QGIS ~ Work with OSM Data in QGIS
 
 ## 🎯 Learning Objectives  
-- Adding and managing layers in QGIS  
-- Learn to use QGIS plugins
-- Get familiar with open data sources  
-- Working with attribute table
+- **Adding and managing layers in QGIS**  
+- **Learn to use QGIS plugins**
+- **Get familiar with open data sources**  
+- **Working with attribute table**
 
 ---
 ## Open Street Maps 
