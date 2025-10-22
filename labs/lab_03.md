@@ -35,14 +35,18 @@ The coordinate reference system (CRS) used for the layers is `EPSG:31287 - MGI /
 From `Layer Menu`, add the following vector layers:
 - Add road network 
 - Add district polygon
-- Add OSM basemap
+- Add OSM basemap by selecting `Web` > `QuickMapServices` > `OSM` > `OSM Standard`
 
-3️⃣ **Create two point layers**
-- Start point, the place where you live
-- End point, the Department of Geography
-- Create a .shp for each point 
-- Add fields `x_coord` and `y_coord` to each point layer accordingly, using knowledge from Lab_02 
-- Zoom into the area, check the road network is connected and the start/end points lie close to the network
+3️⃣ **Create two point layers (student home and department)**
+- `Layer` > `Create Layer` > `New Shapefile Layer`
+- Set geometry to `Point`and CRS to `EPSG:31287`
+- Add attribute fields:
+  - x_coord (decimal)
+  - y_coord (decimal)
+- Name your layer (`start_point`, `end_point`)
+- Toggle editing mode, then use `Add Point Feature` to mark your home and the Geography Department
+- Once points are added, double click the layer to go to `Attributes Form` where you have to select the x_coord field and set `$x` as a `Default value` and click `Apply default value on update`. Do the same for the y_coord and set `$y`. Press `Apply` and `OK`
+- Save edits and check both points are close to the road network
 
 4️⃣ **Run Network analysis**
 
@@ -51,7 +55,7 @@ From `Layer Menu`, add the following vector layers:
   - Firstly, select the `Shortest path (point to point)`
   - Select the roads layer and check that the coordinate system is the `EPSG:31287`
   - For the path type to calculate, select `Shortest`
-  - Set the `Start Point` to be the place where you currently live in Graz and the `End Point` to be the university and specifically the Deparment of Geography
+  - Set the `Start Point` to be your home by clicking `...` and the `End Point` to be the Deparment of Geography
   - Set `Default Speed` as 5 km/h and leave everything else to default
   - Run the tool
   - Inspect the result and adjust the symbology 
@@ -60,8 +64,9 @@ From `Layer Menu`, add the following vector layers:
 > Enable the snapping tool from the `Toolbar` to select your start and end points. Right-click and select `Snapping Toolbar`
 
 **Fastest path (by car)**
+- Load the `max_speed_style` layer by selecting the `roads_31287` layer. Right click `Properties` > `Symbology` > `Style` > `Load Style`
 - As before, open the `Processing Toolbox` and type `Network analysis`
-  - Select the `Shortest path (point to point)`
+  - Repeat `Shortest path (point to point)`
   - Select the roads layer and check that the coordinate system is the `EPSG:31287`
   - For the path type to calculate, select `Fastest`
   - Keep the same start & end points from the previous step
@@ -95,8 +100,9 @@ From `Layer Menu`, add the following vector layers:
 
 ---
 ## 🚀Independently
-- **Run the above network analysis tasks and try to experiment by running network analysis for the fastest route between your points filtering the roads for cycling**
-- **Write a brief report to explain how network analysis adapts to different travel modes (foot, using the car, cycling) and realistic speeds for your case**
+- **Run the above network analysis tasks**
+- **Optionally experiment by running network analysis for the fastest route between your points filtering the roads for cycling**
+- **Write a brief report (3-4 pages max, including pictures) to explain how network analysis adapts to different travel modes (foot, using the car) and realistic speeds for your case**
 - **Save your results into a PDF file (include text and screenshots from your steps) and send it by email till next week**
 
 Examples to get familiar with writing your own GIS reports:
