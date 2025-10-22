@@ -24,7 +24,7 @@ The folder `SnowGIS_Data` contains three shapefiles:
 
 Additionally, ready-made basemaps of the study area are included: `OSMap`, `OSMap_Grayscale`.  
 
-The coordinate reference system (CRS) used for the layers is 'WGS_1984_UTM_Zone_30N” (EPSG:32630)'.  
+The coordinate reference system (CRS) used for the layers is `WGS_1984_UTM_Zone_30N” (EPSG:32630)`.  
 
 ---
 ## Steps
