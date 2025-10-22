@@ -76,7 +76,7 @@ From `Layer Menu`, add the following vector layers:
 
 > ❓**Question:** Click to see the answer    
 <details>
-  <summary>Did the fastest and shortest rotes follow the same path?</summary>
+  <summary>Did the fastest and shortest routes follow the same path?</summary>
   
   Often, they are different because speed limits and road types affect the fastest route. 
   </details>
@@ -101,6 +101,5 @@ From `Layer Menu`, add the following vector layers:
 
 Examples to get familiar with writing your own GIS reports:
 - [Getting Maps into Reports](https://blogs.lincoln.ac.nz/gis/getting-maps-into-report/?)
-- [GIS Technical Report PDF](https://www.studocu.com/en-gb/document/university-of-reading/geographical-information-systems/gis-technical-report-pdf/1579318)
 - [Geog 204 Project Layout](https://gis.unbc.ca/geog204/geog-204-project-layout/)
 - [Introductory level GIS Projects](https://cdn.serc.carleton.edu/files/NAGTWorkshops/gis10/introductory_level_gis_project.pdf?)
