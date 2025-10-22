@@ -68,10 +68,10 @@ From `Layer Menu`, add the following vector layers:
   - Keep the same start & end points from the previous step
   - In the `Advanced Parameters`, select `oneway` for the `Direction Field`
   - `Value for forward direction` set `F`
-  - `Value for backward direction` leave empty
+  - `Value for backward direction` set `T`
   - `Value for both directions` set `B`
   - For `Speed field` set the `maxspeed` and set the speed at 50 km/h
-  - Set the `Topology Tolerance` to a value of `1 meter`
+  - Set the `Topology Tolerance` to a value that can range from `1 meter to 10 meters`. Experiment with this and comment your findings.
   - Run the tool
   - Inspect the result and adjust the symbology 
 
