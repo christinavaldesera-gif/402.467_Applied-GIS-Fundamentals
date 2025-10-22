@@ -45,7 +45,7 @@ From `Layer Menu`, add the following vector layers:
   - y_coord (decimal)
 - Name your layer (`start_point`, `end_point`)
 - Toggle editing mode, then use `Add Point Feature` to mark your home and the Geography Department
-- Once points are added, double click the layer to go to `Attributes Form` where you have to select the x_coord field and set `$x` as a `Default value` and click `Apply default value on update`. Do the same for the y_coord and set `$y`. Press `Apply` and `OK`
+- Once points are added, double click each layer respectively to go to `Attributes Form` where you have to select the x_coord field and set `$x` as a `Default value` and click `Apply default value on update`. Do the same for the y_coord and set `$y`. Press `Apply` and `OK`
 - Save edits and check both points are close to the road network
 
 4️⃣ **Run Network analysis**
