@@ -72,7 +72,7 @@ From `Layer Menu`, add the following vector layers:
   - Keep the same start & end points from the previous step
   - In the `Advanced Parameters`, select `oneway` for the `Direction Field`
   - `Value for forward direction` set `F`
-  - `Value for backward direction` set `T`
+  - `Value for backward direction` leave empty
   - `Value for both directions` set `B`
   - For `Speed field` set the `maxspeed` and set the speed at 50 km/h
   - Set the `Topology Tolerance` to a value of `1 meter`
