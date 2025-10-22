@@ -95,12 +95,12 @@ From `Layer Menu`, add the following vector layers:
 
 ---
 ## 🚀Independently
-- **Try to experiment by running network analysis for the fastest route between your points filtering the roads for cycling**
-- **Write a brief report to explain how network analysis adapts to different travel modes (foot, using the car, cycling) and realistic speeds**
+- **Run the above network analysis tasks and try to experiment by running network analysis for the fastest route between your points filtering the roads for cycling**
+- **Write a brief report to explain how network analysis adapts to different travel modes (foot, using the car, cycling) and realistic speeds for your case**
 - **Save your results into a PDF file (text and screenshots) and send it by email till next week**
 
 Examples to get familiar with writing your own GIS reports:
-[Getting Maps into Reports](https://blogs.lincoln.ac.nz/gis/getting-maps-into-report/?)
-[GIS Technical Report PDF](https://www.studocu.com/en-gb/document/university-of-reading/geographical-information-systems/gis-technical-report-pdf/1579318)
-[Geog 204 Project Layout](https://gis.unbc.ca/geog204/geog-204-project-layout/)
-[Introductory level GIS Projects](https://cdn.serc.carleton.edu/files/NAGTWorkshops/gis10/introductory_level_gis_project.pdf?)
+- [Getting Maps into Reports](https://blogs.lincoln.ac.nz/gis/getting-maps-into-report/?)
+- [GIS Technical Report PDF](https://www.studocu.com/en-gb/document/university-of-reading/geographical-information-systems/gis-technical-report-pdf/1579318)
+- [Geog 204 Project Layout](https://gis.unbc.ca/geog204/geog-204-project-layout/)
+- [Introductory level GIS Projects](https://cdn.serc.carleton.edu/files/NAGTWorkshops/gis10/introductory_level_gis_project.pdf?)
