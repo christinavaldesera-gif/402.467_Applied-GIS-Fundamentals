@@ -100,6 +100,5 @@ From `Layer Menu`, add the following vector layers:
 - **Save your results into a PDF file (text and screenshots) and send it by email till next week**
 
 Examples to get familiar with writing your own GIS reports:
-- [Getting Maps into Reports](https://blogs.lincoln.ac.nz/gis/getting-maps-into-report/?)
 - [Geog 204 Project Layout](https://gis.unbc.ca/geog204/geog-204-project-layout/)
 - [Introductory level GIS Projects](https://cdn.serc.carleton.edu/files/NAGTWorkshops/gis10/introductory_level_gis_project.pdf?)
