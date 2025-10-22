@@ -98,7 +98,7 @@ From `Layer Menu`, add the following vector layers:
 ## 🚀Independently
 - **Run the above network analysis tasks**
 - **Optionally experiment by running network analysis for the fastest route between your points filtering the roads for cycling**
-- **Write a brief report (3-4 pages max, including pictures) to explain how network analysis adapts to different travel modes (foot, using the car) and realistic speeds for your case**
+- **Write a brief report (3 pages max including pictures) to explain how network analysis adapts to different travel modes (foot, using the car) and realistic speeds for your case**
 - **Save your results into a PDF file (include text and screenshots from your steps) and send it by email till next week**
 
 Examples to get familiar with writing your own GIS reports:
