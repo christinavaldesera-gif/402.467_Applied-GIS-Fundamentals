@@ -48,7 +48,7 @@ From `Layer Menu`, add the following vector layers:
 
 **Shortest path (by foot)**
 - Open the `Processing Toolbox` and type `Network analysis`
-  - Firstly, select the `shortest path (point to point)
+  - Firstly, select the `Shortest path (point to point)`
   - Select the roads layer and check that the coordinate system is the `EPSG:31287`
   - For the path type to calculate, select `Shortest`
   - Set the `Start Point` to be the place where you currently live in Graz and the `End Point` to be the university and specifically the Deparment of Geography
@@ -57,11 +57,11 @@ From `Layer Menu`, add the following vector layers:
   - Inspect the result and adjust the symbology 
 
 > [!tip]
-> Enable the snapping tool from the `toolbar` to select your start and end points. Right-click and select `Snapping Toolbar`
+> Enable the snapping tool from the `Toolbar` to select your start and end points. Right-click and select `Snapping Toolbar`
 
 **Fastest path (by car)**
 - As before, open the `Processing Toolbox` and type `Network analysis`
-  - Select the `shortest path (point to point)`
+  - Select the `Shortest path (point to point)`
   - Select the roads layer and check that the coordinate system is the `EPSG:31287`
   - For the path type to calculate, select `Fastest`
   - Keep the same start & end points from the previous step
