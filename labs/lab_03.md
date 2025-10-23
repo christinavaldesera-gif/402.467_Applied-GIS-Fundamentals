@@ -104,3 +104,10 @@ From `Layer Menu`, add the following vector layers:
 Examples to get familiar with writing your own GIS reports:
 - [Geog 204 Project Layout](https://gis.unbc.ca/geog204/geog-204-project-layout/)
 - [Introductory level GIS Projects](https://cdn.serc.carleton.edu/files/NAGTWorkshops/gis10/introductory_level_gis_project.pdf?)
+
+---
+## Data Source
+
+Geofabrik Download Server ([https://download.geofabrik.de/](https://download.geofabrik.de/))  
+
+
