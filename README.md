@@ -45,6 +45,7 @@ Our lab exercises offer step-by-step guidelines that cover real-world GIS topics
 - [Lab 01: QGIS Basics](labs/lab_01.md)
 - [Lab 02: Getting to know QGIS](labs/lab_02.md)
 - [Lab 03: Handling Vector Data](labs/lab_03.md)
+- [Lab 04: Georeferencing](labs/lab_04.md)
 ---
 
 ## Materials
