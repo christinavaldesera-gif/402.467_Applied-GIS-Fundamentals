@@ -101,7 +101,7 @@ Historical map of Graz [Click here for access to the map](https://drive.google.c
 | Target SRS                    | EPSG:25833                         |
 | Output Raster                 | Save somewhere you will remember with a unique ID |
 | Compression                  | LZW                                         |
-| Use 0 for transparency when needed | Checked                                |
+| Use 0 for transparency when needed | Unchecked                                |
 | Save GCP points               | Checked                                     |
 | Load in QGIS when done        | Checked                                     |
 
