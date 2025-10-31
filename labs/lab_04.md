@@ -24,7 +24,9 @@ Georeferencing means that the internal coordinate system of a digital map or aer
 ---
 ## Data
 
-Historical map of Graz [Click here for access to the map](https://drive.google.com/file/d/1Z3n0FN0VRolJx1LpgxuvXNVFrhgPG81_/view?usp=sharing)
+**Historical map of Graz** [Click here for access to the map](https://drive.google.com/file/d/1Z3n0FN0VRolJx1LpgxuvXNVFrhgPG81_/view?usp=sharing)
+
+Map acquired from here [Source](https://commons.wikimedia.org/wiki/File:Graz-Austria.jpg)
 
 ---
 ## Steps
