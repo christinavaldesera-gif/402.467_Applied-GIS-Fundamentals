@@ -36,6 +36,7 @@ Our lecture slides provide basic theoretical insights into GIS concepts. They wo
 - [Lecture 02: Getting to know QGIS](lectures/lab_02_theory.pdf)
 - [Lecture 03: Handling Vector Data](lectures/lab_03_theory.pdf)
 - [Lecture 04: Georeferencing](lectures/lab_04_theory.pdf)
+- [Lecture 05: Vector Digitization & Spatial Queries](lectures/lab_05_theory.pdf)
 ---
 
 ## Labs
