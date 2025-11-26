@@ -30,6 +30,7 @@ The folder contains 3 layers:
 
 ---
 2️⃣ **Terrain Analysis**
+
 **Calculate Hillshade from DEM**
 - Go to `Raster` > `Analysis` > `Hillshade`
 - Input your loaded DEM raster
