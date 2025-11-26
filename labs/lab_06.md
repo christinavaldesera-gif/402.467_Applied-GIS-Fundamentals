@@ -68,6 +68,7 @@ The folder contains 3 layers:
 - Select `Configure` and go to `Terrain`. Select `DEM (Raster Layer)` for the `Type` and `Manhattan_DEM` for `Elevation`
 - Select `Apply` and `OK`
 
+---
 4️⃣ **Corine Land Cover**
 - Select the _Manhattan_land_cover_2017_ layer
 - Right click and go to `Properties`
@@ -77,7 +78,7 @@ The folder contains 3 layers:
 - Select `Apply` and `OK`
 
 ---
-🚀Independently
+## 🚀 Independently
 - Get familiar with the above raster data. We will use them for the next lab exercise
 - Form groups and complete the following excel spreadsheet [NYC_boroughs](https://docs.google.com/spreadsheets/d/1DqHz-t5fDokLLvODb0c3RSqHBD3ykC7j/edit?usp=sharing&ouid=117699182598422702770&rtpof=true&sd=true)
 - Each group should find one open GIS data source, sent to me by email and present it orally at the next lab
