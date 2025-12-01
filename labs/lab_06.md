@@ -69,7 +69,7 @@ The folder contains 3 layers:
 - Select `Apply` and `OK`
 
 ---
-4️⃣ **Corine Land Cover**
+4️⃣ **Land Cover**
 - Select the _Manhattan_land_cover_2017_ layer
 - Right click and go to `Properties`
 - Select `Symbology`. For `Render Type` select `Paletted/Unique values`
