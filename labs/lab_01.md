@@ -1,4 +1,4 @@
-# Lab_01: QGIS Basics ~ Reproducing John Snow's Mapping Method  
+# Lab 01: QGIS Basics ~ Reproducing John Snow's Mapping Method  
 
 ## Introduction  
 
