@@ -1,4 +1,4 @@
-# Lab_02: Getting to Know QGIS ~ Work with OSM Data in QGIS
+# Lab 02: Getting to Know QGIS ~ Work with OSM Data in QGIS
 
 ## 🎯 Learning Objectives  
 - **Adding and managing layers in QGIS**  
