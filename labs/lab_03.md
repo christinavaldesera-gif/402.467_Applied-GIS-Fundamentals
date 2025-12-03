@@ -1,4 +1,4 @@
-# Lab_03: Handling Vector Data ~ Network Analysis
+# Lab 03: Handling Vector Data ~ Network Analysis
 
 ## Introduction  
 
