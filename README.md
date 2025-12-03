@@ -51,6 +51,7 @@ Our lab exercises offer step-by-step guidelines that cover real-world GIS topics
 - [Lab 04: Georeferencing](labs/lab_04.md)
 - [Lab 05: Vector Digitization & Spatial Queries](labs/lab_05.md)
 - [Lab 06: Handling Raster Data](labs/lab_06.md)
+- [Lab 07: Park Suitability Analysis in NYC](labs/lab_07.md)
 ---
 
 ## Materials
