@@ -9,5 +9,5 @@
 | 5 | **NYC Open Data**                | Public datasets across NYC including demographics, transportation, environment and more | https://opendata.cityofnewyork.us/ |
 | 6 | **Offene Daten Österreich**                | Statistics about the population in Austria and the states, data about traffic and transport routes, cadastre maps, maps in the form of geopackages, shapefiles of various types, etc. | https://www.data.gv.at/home?locale=de/ |
 | 7 | **GISCO Geographic Information System of the Commission**                | Geospatial data such as administrative and statistical unit boundaries (countries, regions, NUTS), population distribution grids, thematic layers like land cover/land use and transport or hydrography reference data covering the whole of Europe | https://ec.europa.eu/eurostat/web/gisco/geodata/ |
-| 8 | **United States Government’s Open Data**  | 271,627 geospatial datasets available for categories susch as climate, transportation, energy, local goverment and others | https://catalog.data.gov/dataset/?metadata_type=geospatial/ |
+| 8 | **United States Government’s Open Data**  | 271,627 geospatial datasets available for categories susch as climate, transportation, energy, local goverment and others | [https://catalog.data.gov/dataset/?metadata_type=geospatial/](https://data.gov/) |
  
