@@ -90,7 +90,6 @@ In SCP, supervised classification requires training data in the form of **ROIs (
 5️⃣ **Classification Preview**
 - Go to the `Classification` tab in SCP  
 - Select a classification algorithm. Use `Minimum Distance`   
-- Make sure your `Band Set` and `Training Input` (ROIs) are selected  
 - Click the `Preview` button  
 - Examine the preview map classes are colored as per your ROIs  
    - If classes appear mixed or incorrect, improve your ROIs and repeat the preview  
