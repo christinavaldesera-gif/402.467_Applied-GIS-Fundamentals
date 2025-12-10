@@ -16,13 +16,13 @@ In Remote Sensing, **Classification** involves categorizing pixels in an image i
 ---
 ## Data
 
-Please download the data from the folder matching the last digit of your matriculation number (student number). More specific:
+Please download the data from the folder matching the last digit of your matriculation number (student number). More specifically:
 
 - If your student number ends in 1,3,5,7 or 9 --> download [here](https://drive.google.com/file/d/1qJII011McjpHnHtBcAlYdpyt6EnpUu-G/view?usp=sharing/)
 - If your student number ends in 0,2,4,6, or 8 --> download [here](https://drive.google.com/file/d/1-x6Gn8HfTH5gCkF2-c1PofbIgj-t2wyF/view?usp=sharing/)
 
 
-The image data used in this exercise is Sentinel-2 10m resolution imagery for Graz, Austria. Each student will work on a specific tile of the image with 8 spectral bands and dimensions approx. 3660×2196 pixels. SCP requires input data with bands separated into individual raster files, thus an additional process separated the bands inside each tile folder. For this exercise, only 4 bands are used: **Band 2 (Blue), Band 3 (Green), Band 4 (Red) and Band 8 (Near Infrared)**, which support further index analyses. For more information about Sentinel-2 spectral bands, click [here](https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/bands/).
+The image data used in this exercise is Sentinel-2 10m resolution imagery for Graz, Austria. Each student will work on a specific tile of the image with 8 spectral bands and dimensions approx. 3660×2196 pixels. SCP works by processing a band set. While individual band files can be loaded, they are typically combined into a single stacked raster by SCP for classification, as will be done in step 3. For this exercise, only 4 bands are used: **Band 2 (Blue), Band 3 (Green), Band 4 (Red) and Band 8 (Near Infrared)**, which support further index analyses. For more information about Sentinel-2 spectral bands, click [here](https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/bands/).
 
 ---
 ## Steps
@@ -35,7 +35,7 @@ The image data used in this exercise is Sentinel-2 10m resolution imagery for Gr
 2️⃣ **Load Data**
 - Load your image tile e.g.`tile_02`
 - Right click and go to `Properties` > `Symbology`. For Render type select `Multiband color` and for Red band select `Band 3`, for Green band select `Band 2` and for Blue band select `Band 1`. Observe how your initial image changed. In Remote Sensing, this band combination is typically called a _Natural Color Composite_
-- Load also the 4 bands from your data folder
+- Load also the 4 individual band files directly into QGIS 
 
 3️⃣ **Prepare the Band Set in SCP**
 - Go to `SCP` plugin from the `Main Menu` and select `Band set`
@@ -47,8 +47,8 @@ The image data used in this exercise is Sentinel-2 10m resolution imagery for Gr
    - In the  `Band quick settings ` menu at the  `Wavelength ` field, select the `Sentinel-2` option from the dropdown to assign accurate central wavelengths  
    - Check the box `Create raster of band set (stack bands)`  
    - Press `Run`. A dialog will prompt you to select a directory and filename for the stacked raster. Choose a location and save  
-   - The stacked raster will be created and saved in your selected folder  
-- Click `Close` to save the band set  
+   - The stacked raster will be created and saved in your selected folder
+   - Click `Close` to apply these settings and close the band set window   
 
 > ❓**Question:** Click to see the answer  
 <details>
@@ -57,6 +57,7 @@ The image data used in this exercise is Sentinel-2 10m resolution imagery for Gr
 </details>
 
 4️⃣ **Create Training Input (ROIs)**
+
 In SCP, supervised classification requires training data in the form of **ROIs (Regions of Interest)** polygons drawn on the satellite imagery that represent known land cover classes.
 - ROIs are also called *training polygons* because they provide spatial samples used to train the classifier  
 - Each ROI stores polygon geometry plus spectral information from the pixels within  
@@ -78,7 +79,7 @@ In SCP, supervised classification requires training data in the form of **ROIs (
 - Name the ROI after the land cover class it represents (e.g., "Water", "Vegetation", etc.)  
 - Choose a distinct color for each class to help visualization  
 - Draw **at least 7–10 polygons per class**, spaced across your tile to capture variability  
-- Save your ROIs regularly using the `Save ROI` button, which creates a `.roi` file for reuse  
+- Save your ROIs regularly using the `Save ROI` button, which creates a `.scpx` file for reuse  
 
 > ❓**Question:** Click to see the answer  
 <details>
@@ -91,7 +92,7 @@ In SCP, supervised classification requires training data in the form of **ROIs (
 - Select a classification algorithm. Use `Minimum Distance`   
 - Make sure your `Band Set` and `Training Input` (ROIs) are selected  
 - Click the `Preview` button  
-- Examine the preview map—classes are colored as per your ROIs  
+- Examine the preview map classes are colored as per your ROIs  
    - If classes appear mixed or incorrect, improve your ROIs and repeat the preview  
 
 When you are satisfied, proceed to the full classification step.
@@ -107,7 +108,7 @@ When you are satisfied, proceed to the full classification step.
 - When prompted, choose a location and filename to save the classified raster (e.g., `tile_02_classified.tif`)  
 - Wait for the process to finish (may take several minutes depending on data size and computer)  
 - After completion, the classified raster will be automatically added to your Layers panel  
-- You can style the classified image by right-clicking the layer > `Properties` > `Symbology` and assigning colors to each class
+- You can style the classified image by right clicking the layer > `Properties` > `Symbology` and assigning colors to each class
 
 > ❓**Question:** Click to see the answer  
 <details>
@@ -124,7 +125,7 @@ When you are satisfied, proceed to the full classification step.
 > ❓**Question:** Click to see the answer  
 <details>
   <summary>What criteria can you use to assess the quality of your classification?</summary>
-  Compare with known land cover, spectral signature consistency, spatial patterns, and accuracy metrics if reference data are available.
+  Compare with known land cover, spectral signature consistency, spatial patterns and accuracy metrics if reference data are available.
 </details>
 
 ---
