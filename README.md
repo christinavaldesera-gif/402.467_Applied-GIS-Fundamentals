@@ -38,6 +38,7 @@ Our lecture slides provide basic theoretical insights into GIS concepts. They wo
 - [Lecture 04: Georeferencing](lectures/lab_04_theory.pdf)
 - [Lecture 05: Vector Digitization & Spatial Queries](lectures/lab_05_theory.pdf)
 - [Lecture 06: Handling Raster Data](lectures/lab_06_theory.pdf)
+- [Lecture 08: Introduction to Remote Sensing](lectures/lab_08_theory.pdf)
 ---
 
 ## Labs
@@ -52,6 +53,7 @@ Our lab exercises offer step-by-step guidelines that cover real-world GIS topics
 - [Lab 05: Vector Digitization & Spatial Queries](labs/lab_05.md)
 - [Lab 06: Handling Raster Data](labs/lab_06.md)
 - [Lab 07: Park Suitability Analysis in NYC](labs/lab_07.md)
+- [Lab 08: Introduction to Remote Sensing](labs/lab_08.md)
 ---
 
 ## Materials
