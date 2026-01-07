@@ -1,4 +1,4 @@
-# Lab 08 continuation: Calculating NDVI & NDWI Indices using QGIS 
+# Lab 08a: Calculating NDVI & NDWI Indices using QGIS 
 
 ## 🎯Learning Objective
 - **Calculate NDVI and NDWI indices using QGIS Raster Calculator**
@@ -14,7 +14,7 @@
 - Open QGIS Raster Calculator via `Raster` > `Raster Calculator`
 - To calculate **NDVI**, adjust the expression below according to your tile:
 
-("tile_02_B04@1" - "tile_02_B03@1") / ("tile_02_B04@1" + "tile_02_B03@1"),
+("tile_02_B04@1" - "tile_02_B03@1") / ("tile_02_B04@1" + "tile_02_B03@1") ,
 
 here: `"tile_02_B04@1"` is the Near-Infrared band and `"tile_02_B03@1"` is the Red band
 
@@ -27,7 +27,7 @@ here: `"tile_02_B04@1"` is the Near-Infrared band and `"tile_02_B03@1"` is the R
 - Load the `B02` band
 - To calculate **NDWI**, adjust the expression below according to your tile:
 
- ("tile_02_B02@1" - "tile_02_B04@1") / ("tile_02_B02@1" + "tile_02_B04@1"),
+ ("tile_02_B02@1" - "tile_02_B04@1") / ("tile_02_B02@1" + "tile_02_B04@1") ,
 
 here: `"tile_02_B02@1` is the Green band and `"tile_02_B04@1"` is the Near-Infrared band
 
