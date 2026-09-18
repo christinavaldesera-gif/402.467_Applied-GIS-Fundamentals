@@ -5,8 +5,8 @@ Welcome to the course repository for **Applied GIS Fundamentals 2026**. This rep
 ---
 
 ## 👩‍🏫 Class Meetings & Office Hours
-**Lecture & Lab:** Wednesdays, 1:30–3:00 PM   
-**Office Hours:** Thursdays from 2:00 to 3:00 PM
+**Lecture & Lab:** Wednesdays, 1:30–3:00 PM.      
+**Office Hours:** By appointment. Please email me to schedule a meeting.
 
 *The first half an hour will be dedicated to theory, followed by hands-on lab exercises for the remaining time*. 
 _Other lab times will be arranged if needed_.
@@ -32,14 +32,7 @@ To participate fully in this course, students must have:
 Our lecture slides provide basic theoretical insights into GIS concepts. They work alongside the hands-on labs. Current lectures include:
 
 - [Lecture 00: Introducing Ourselves to GIS](lectures/lab_00_theory.pdf)
-- [Lecture 01: QGIS Basics](lectures/lab_01_theory.pdf)
-- [Lecture 02: Getting to know QGIS](lectures/lab_02_theory.pdf)
-- [Lecture 03: Handling Vector Data](lectures/lab_03_theory.pdf)
-- [Lecture 04: Georeferencing](lectures/lab_04_theory.pdf)
-- [Lecture 05: Vector Digitization & Spatial Queries](lectures/lab_05_theory.pdf)
-- [Lecture 06: Handling Raster Data](lectures/lab_06_theory.pdf)
-- [Lecture 08: Introduction to Remote Sensing](lectures/lab_08_theory.pdf)
-- [Lecture 08a: Calculating NDVI & NDWI Indices Using QGIS](lectures/lab_08a_theory.pdf)
+
 ---
 
 ## Labs
@@ -47,15 +40,7 @@ Our lecture slides provide basic theoretical insights into GIS concepts. They wo
 Our lab exercises offer step-by-step guidelines that cover real-world GIS topics. Current labs include:
 
 - [Lab 00: Introducing Ourselves to GIS](labs/lab_00.md)
-- [Lab 01: QGIS Basics](labs/lab_01.md)
-- [Lab 02: Getting to know QGIS](labs/lab_02.md)
-- [Lab 03: Handling Vector Data](labs/lab_03.md)
-- [Lab 04: Georeferencing](labs/lab_04.md)
-- [Lab 05: Vector Digitization & Spatial Queries](labs/lab_05.md)
-- [Lab 06: Handling Raster Data](labs/lab_06.md)
-- [Lab 07: Park Suitability Analysis in NYC](labs/lab_07.md)
-- [Lab 08: Introduction to Remote Sensing](labs/lab_08.md)
-- [Lab 08a: Calculating NDVI & NDWI Indices Using QGIS](labs/lab_08a.md)
+
 ---
 
 ## Materials
