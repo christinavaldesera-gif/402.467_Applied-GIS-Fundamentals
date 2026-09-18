@@ -53,4 +53,10 @@ This folder contains useful materials and links to support your learning. You ca
 
 ---
 
+## Discussions
+
+Use [Discussions](https://github.com/christinavaldesera-gif/402.467_Applied-GIS-Fundamentals/discussions) to ask questions and exchange ideas, and remember to check the Announcememnts category before each lab to download the data I will post for that sessions.
+
+---
+
 *Feel free to explore and use the materials as you progress through the course!*
