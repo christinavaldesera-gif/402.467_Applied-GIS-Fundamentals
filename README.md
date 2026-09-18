@@ -1,6 +1,6 @@
 # 402.467 / Applied GIS Fundamentals
 
-Welcome to the course repository for **Applied GIS Fundamentals**. This repository contains all course materials including lab exercises and additional resources.
+Welcome to the course repository for **Applied GIS Fundamentals 2026**. This repository contains all course materials including lab exercises and additional resources.
 
 ---
 
