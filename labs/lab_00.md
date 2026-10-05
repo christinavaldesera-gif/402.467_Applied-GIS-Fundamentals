@@ -2,7 +2,7 @@
 
 ## 🎯 Session Goals
 - Discuss terminology of Geographic Information Systems (GIS)  
-- Learn about spatial data types and data structure in GIS  
+- Learn about spatial data types and data structures in GIS  
 - Recognize the importance of managing your GIS workspace effectively  
 - Get acquainted with the QGIS software: what it is and how to install it  
 
@@ -72,8 +72,8 @@ QGIS is a free, open-source GIS software that enables users to work with spatial
  
 ---
 ## What’s Next? ⏭️  
-- **Install QGIS. If you have any issues, create a new discussions thread on GitHub.**
-- **Load the Open Street Map (OSM) basemap using the XYZ Tiles option and pan around the map.**
+- **Install QGIS. If you have any issues, create a new discussion thread on GitHub.**
+- **Load the OpenStreetMap (OSM) basemap using the XYZ Tiles option and pan around the map.**
 - **Familiarize yourself with QGIS's interface. Locate the Browser and Layers panels, practise zooming and panning, and switch OSM off and on once.**
-- **Locate a place you would like to visit and explain why would you like to visit it, and mentioning one detail you noticed on the map. Keep it short in one paragraph (3-5 sentences maximum).**
-- **Include a screenshot of that place and your paragraph in one PDF. Send it to me via email and use the subject 402.67_Lab00_LastName_FirstName.**
+- **Locate a place you would like to visit and explain why you would like to visit it, and mention one detail you noticed on the map. Keep it short in one paragraph (3-5 sentences).**
+- **Include a screenshot from QGIS of that place and your paragraph in one PDF. Send it to me via email before our next class and use the subject 402.467_Lab00_LastName_FirstName.**
