@@ -73,7 +73,7 @@ QGIS is a free, open-source GIS software that enables users to work with spatial
 ---
 ## What’s Next? ⏭️  
 - **Install QGIS. If you have any issues, create a new discussions thread on GitHub.**
-- **Familiarize yourself with QGIS's interface.**
 - **Load the Open Street Map (OSM) basemap using the XYZ Tiles option and pan around the map.**
+- **Familiarize yourself with QGIS's interface. Locate the Browser and Layers panels, practise zooming and panning, and switch OSM off and on once.**
 - **Locate a place you would like to visit and explain why would you like to visit it, and mentioning one detail you noticed on the map. Keep it short in one paragraph (3-5 sentences maximum).**
-- **Send me your screenshot and paragraph before our next class (in PDF) via email. Use the subject 402.467_Lab00_LastName_FirstName.**
+- **Include a screenshot of that place and your paragraph in one PDF. Send it to me via email and use the subject 402.67_Lab00_LastName_FirstName.**
