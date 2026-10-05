@@ -46,12 +46,14 @@ A good practice is to keep backup copies of data and project files in a differen
 ## 6. Intro to QGIS 🗺️
 QGIS is a free, open-source GIS software that enables users to work with spatial data easily. It supports a wide range of GIS tasks from data visualization to spatial analysis.
 
-⁉️*Why use QGIS as our GIS software?*  
+> ⁉️ **Question: Click to see the answer    
+<details>
+  <summary>Why use QGIS as our GIS software??</summary>
 
-> **Answer:**  
-> - It’s **free** and open-source, so accessible to everyone  
-> - It supports a wide range of **data formats and coordinate systems**  
-> - It combines **powerful GIS capabilities** with a friendly interface that beginners can quickly learn
+- It’s **free** and open-source, so accessible to everyone  
+- It supports a wide range of **data formats and coordinate systems**  
+- It combines **powerful GIS capabilities** with a friendly interface that beginners can quickly learn
+  </details>
 
 ## To Do: Install QGIS
 
