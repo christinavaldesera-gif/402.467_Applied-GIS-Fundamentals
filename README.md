@@ -51,6 +51,8 @@ This folder contains useful materials and links to support your learning. You ca
 - [GIS Glossary](materials/GIS_Glossary.md) – a table of GIS terminology to help you get familiar with it
 - [Open Data Sources](materials/open_data_sources.md) – a catalogue of free spatial data sources
 
+📖 Prefer learning through reading handbooks? You can find *Discover QGIS 3.x by Kurt Menke* in our library.
+
 ---
 
 ## Discussions
