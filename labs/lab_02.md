@@ -1,4 +1,4 @@
-# Lab 02: Georeferencing a Historical Map
+# Lab 02: QGIS Basics ~ Georeferencing a Historical Map
 
 ## Georeferencing
 
@@ -125,7 +125,7 @@ The link contains a Franziszeischer_Kataster.tif file (a clipped extract of the 
 
 ## Data Sources
 
-- Map acquired from: ([**KAGIS – Franziszeischer Kataster**/](https://gis.ktn.gv.at/webgisviewer/atlas-mobile/map/Basiskarten/Franziszeischer%20Kataster))
+- Map acquired from: ([**KAGIS – Franziszeischer Kataster**](https://gis.ktn.gv.at/webgisviewer/atlas-mobile/map/Basiskarten/Franziszeischer%20Kataster))
 
 - Georeferencing: [USGS](https://www.usgs.gov/faqs/what-does-georeferenced-mean)
 
