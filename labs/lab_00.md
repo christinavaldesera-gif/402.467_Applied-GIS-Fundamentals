@@ -1,4 +1,4 @@
-# Lab 00: Introduction to GIS Fundamentals  
+# Lab 00: Introducing Ourselves to GIS 
 
 ## 🎯 Session Goals
 - Discuss terminology of Geographic Information Systems (GIS)  
