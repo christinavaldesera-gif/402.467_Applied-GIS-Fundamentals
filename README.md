@@ -34,7 +34,7 @@ Our lecture slides provide basic theoretical insights into GIS concepts. They wo
 - [Lecture 00: Introducing Ourselves to GIS](lectures/lab_00_theory.pdf)
 - [Lecture 01: Mapping Cholera in Soho](lectures/lab_01_theory.pdf)
 - [Lecture 02: Georeferencing a Historical Map](lectures/lab_02_theory.pdf)
-
+- [Lecture 03: Vector Digitization & Spatial Queries](lectures/lab_03_theory.pdf)
 ---
 
 ## Labs
@@ -44,6 +44,7 @@ Our lab exercises offer step-by-step guidelines that cover real-world GIS topics
 - [Lab 00: Introducing Ourselves to GIS](labs/lab_00.md)
 - [Lab 01: Mapping Cholera in Soho](labs/lab_01.md)
 - [Lab 02: Georeferencing a Historical Map](labs/lab_02.md)
+- [Lab 03: Vector Digitization & Spatial Queries](labs/lab_03.md)
 
 ---
 
