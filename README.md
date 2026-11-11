@@ -36,6 +36,8 @@ Our lecture slides provide basic theoretical insights into GIS concepts. They wo
 - [Lecture 02: Georeferencing a Historical Map](lectures/lab_02_theory.pdf)
 - [Lecture 03: Vector Digitization & Spatial Queries](lectures/lab_03_theory.pdf)
 - [Lecture 04: Network Analysis](lectures/lab_04_theory.pdf)
+- [Lecture 05: Park Suitability Analysis in NYC](lectures/lab_05_theory.pdf)
+
 ---
 
 ## Labs
@@ -47,6 +49,7 @@ Our lab exercises offer step-by-step guidelines that cover real-world GIS topics
 - [Lab 02: Georeferencing a Historical Map](labs/lab_02.md)
 - [Lab 03: Vector Digitization & Spatial Queries](labs/lab_03.md)
 - [Lab 04: Network Analysis](labs/lab_04.md)
+- [Lab 05: Park Suitability Analysis in NYC](labs/lab_05.md)
 
 ---
 
