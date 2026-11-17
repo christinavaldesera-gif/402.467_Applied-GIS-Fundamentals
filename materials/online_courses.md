@@ -8,3 +8,4 @@
 - [MIT ~ GIS Level 1: Introduction to GIS & Mapping](https://ocw.mit.edu/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/pages/gis-level-1/)
 - [Spatial Thoughts ~ Introduction to QGIS (Full Course)](https://courses.spatialthoughts.com/introduction-to-qgis.html)
 - [IHE DELFT ~ GIS OpenCourseWare (All Courses)](https://courses.gisopencourseware.org/)
+- [UNMAPS ~ QGIS Training (QGIS & more)](https://maps.un.org/learning/)
